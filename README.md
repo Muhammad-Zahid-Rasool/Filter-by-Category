@@ -1,5 +1,5 @@
-# useReducer is Local Component Level State Management. 
+# Filter By Category Project. 
 
-For Global State Management like Redux,Then useReducer + Context API = Redux.
+Filter By Category Project.
 
 #
