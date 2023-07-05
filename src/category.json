@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "title": "Man",
+    "price": "123",
+      "image": "/clothes/men-clothes.jpg"
+      
+    },
+    {
+        "id": 2,
+        "title": "Man",
+      "price": "145",
+        "image": "/clothes/men-clothes1.jpg"
+        
+      },
+      {
+        "id": 3,
+        "title": "Man",
+      "price": "1234",
+        "image": "/clothes/men-clothes2.jpg"
+        
+      },
+      {
+        "id": 4,
+        "title": "Man",
+      "price": "122",
+        "image": "/clothes/men-clothes3.jpg"
+        
+      },
+      {
+        "id": 5,
+        "title": "Man",
+      "price": "1234",
+        "image": "/clothes/men-clothes4.jpg"
+        
+      },
+      {
+        "id": 5,
+        "title": "Man",
+      "price": "223",
+        "image": "/clothes/men-clothes5.jpg"
+        
+      },
+      {
+        "id": 6,
+        "title": "Man",
+      "price": "5443",
+        "image": "/clothes/men-clothes6.jpg"
+        
+      },
+      {
+        "id": 7,
+        "title": "Man",
+      "price": "234",
+        "image": "/clothes/men-clothes7.jpg"
+        
+      },
+      {
+        "id": 8,
+        "title": "Man",
+      "price": "122",
+        "image": "/clothes/men-clothes8.jpg"
+        
+      },
+      {
+        "id": 9,
+        "title": "Women",
+      "price": "12123",
+        "image": "/clothes/Women.jpg"
+        
+      },
+      {
+        "id": 10,
+        "title": "Women",
+      "price": "553",
+        "image": "/clothes/Women1.jpg"
+        
+      },
+      {
+        "id": 11,
+        "title": "Women",
+      "price": "853",
+        "image": "/clothes/Women2.jpg"
+        
+      },
+      {
+        "id": 12,
+        "title": "Women",
+      "price": "553",
+        "image": "/clothes/Women3.jpg"
+        
+      },
+      {
+        "id": 13,
+        "title": "Women",
+      "price": "753",
+        "image": "/clothes/Women4.jpg"
+        
+      },
+      {
+        "id": 14,
+        "title": "Children",
+      "price": "753",
+        "image": "/clothes/children.jpg"
+        
+      },
+      {
+        "id": 145,
+        "title": "Children",
+      "price": "853",
+        "image": "/clothes/children1.jpg"
+        
+      },
+      {
+        "id": 15,
+        "title": "Children",
+      "price": "153",
+        "image": "/clothes/children2.jpg"
+        
+      },
+      {
+        "id": 16,
+        "title": "Black",
+      "price": "753",
+        "image": "/clothes/Black.jpg"
+        
+      }, {
+        "id": 17,
+        "title": "Black",
+      "price": "753",
+        "image": "/clothes/Black1.jpg"
+        
+      },
+       {
+        "id": 18,
+        "title": "White",
+      "price": "753",
+        "image": "/clothes/White.jpg"
+        
+      },  {
+        "id": 19,
+        "title": "White",
+      "price": "953",
+        "image": "/clothes/White1.jpg"
+        
+      }
+  ]
+  

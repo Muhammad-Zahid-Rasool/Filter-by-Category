@@ -1,11 +1,10 @@
-import './App.css';
+
+import Products from './Products';
 
 function App() {
   return (
-    <div className="App">
-        Empty Project.
-    </div>
-  );
+    <Products/>
+  )
 }
 
 export default App;
